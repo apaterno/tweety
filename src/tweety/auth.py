@@ -1,3 +1,4 @@
+from __future__ import annotations
 from http.cookiejar import MozillaCookieJar
 from .exceptions_ import InvalidCredentials, DeniedLogin
 from .builder import FlowData
