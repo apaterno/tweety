@@ -1,4 +1,4 @@
-
+from __future__ import annotations
 class SearchFilters:
     """
     This class can be used to filter the search results
