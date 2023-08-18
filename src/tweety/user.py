@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import Union, Generator
 
 from .types.inbox import Message
